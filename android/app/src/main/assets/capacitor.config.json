@@ -1,0 +1,8 @@
+{
+  "appId": "com.Pair.BNB.ionic-angular",
+  "appName": "Booking-app",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/home/narek/Desktop/android-studio/bin/studio.sh"
+
+}
